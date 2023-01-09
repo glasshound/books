@@ -24,7 +24,7 @@
     "feather-icons": "^4.28.0",
     "knex": "^0.95.12",
     "lodash": "^4.17.21",
-    "luxon": "^2.0.2",
+    "luxon": "^2.5.2",
     "pesa": "^1.1.3",
     "sqlite3": "npm:@vscode/sqlite3@^5.0.7",
     "vue": "^2.6.14",
